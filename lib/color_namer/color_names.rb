@@ -616,7 +616,7 @@ class ColorNamer::ColorNames
       ["DBDB70", "Goldenrod", "Yellow"],
       ["373332", "Gondola", "Grey"],
       ["29332B", "Gordons Green", "Green"],
-      ["FDE336", "Gorse", "Green"],
+      ["FDE336", "Gorse", "Yellow"],
       ["399F86", "Gossamer", "Green"],
       ["9FD385", "Gossip", "Green"],
       ["698890", "Gothic", "Blue"],
